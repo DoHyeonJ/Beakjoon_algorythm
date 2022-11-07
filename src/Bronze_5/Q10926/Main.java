@@ -1,4 +1,4 @@
-package Bronze_5.Q10951;
+package Bronze_5.Q10926;
 
 import java.util.Scanner;
 
@@ -6,8 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        while (sc.hasNext()) {
-            System.out.println(sc.nextInt() + sc.nextInt());
-        }
+        System.out.print(sc.next() + "??!");
     }
 }
